@@ -1,0 +1,23 @@
+body{
+    background:lightgreen;
+}
+#title{
+    color:#1a66ff;  
+    font-size:100px;  
+}
+div{
+    padding:10px;
+    margin-bottom:10px;
+}
+.row{
+    border:black 2px solid;
+}
+.outer{
+    background-color:lightblue;
+}
+.inner{
+    background-color:lightgray;
+}
+.portfolio-img{
+    width:100%;
+}
